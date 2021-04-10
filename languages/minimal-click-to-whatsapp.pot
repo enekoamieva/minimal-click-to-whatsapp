@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimal click to Whatsapp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 08:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.6.2\n"
+"X-Domain: minimal-click-to-whatsapp"
+
+#. Description of the plugin
+msgid "A simple and minimal plugin click to Whatsapp"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:6
+msgid "Configure minimal click to Whatsapp"
+msgstr ""
+
+#. Author of the plugin
+msgid "Eneko Amieva"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:110
+msgid "Enter the welcome text to start Whatsapp conversation"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://enekoamieva.com"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:123
+msgid "Left"
+msgstr ""
+
+#. Name of the plugin
+#: admin/minimal-click-to-whatsapp-admin.php:7
+#: admin/minimal-click-to-whatsapp-admin.php:19
+msgid "Minimal click to Whatsapp"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:43
+msgid "Phone Number"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:99
+msgid "Phone number to Whatsapp"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:45
+msgid "Position Button"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:119
+msgid "Right"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:40
+msgid "Settings"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:44
+msgid "Welcome text"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:46
+msgid "Whatsapp Icon Size"
+msgstr ""
+
+#: admin/minimal-click-to-whatsapp-admin.php:137
+msgid "Whatsapp icon size in px (Default: 42px)"
+msgstr ""
